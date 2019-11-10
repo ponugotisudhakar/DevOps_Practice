@@ -1,4 +1,4 @@
-node(''){
+node('ip-172-31-6-55.ap-south-1.compute.internal'){
 
     stage('message'){
         echo 'Hello Spring-Petclinic'
